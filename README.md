@@ -34,8 +34,7 @@ Only even-numbered completions are counted as successful (e.g., day 2, 4, 6...).
 
 📸 Sample Output
 yaml
-Kopyala
-Düzenle
+
 Enter your name: Murat
 How many habits do you want to add? 2
 Enter name of your habit 1: Exercise
